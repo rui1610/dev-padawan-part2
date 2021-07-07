@@ -24,5 +24,8 @@ If you get an error message you have some homework to do (unless you are simply 
 HELLO PADAWAN!
 ```
 
+You are getting an error message? Maybe that already brings us to part 3 of our journey.
+
+You didn't get an error message? The force must be strong inside you.
 
 > Yoda: “[A Jedi's strength flows from the Force](https://www.youtube.com/watch?v=gONQCIevSN0)”
