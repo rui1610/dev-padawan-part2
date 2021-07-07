@@ -1,5 +1,14 @@
 # Dev Padawan - Part 2
 
+## Recently at Dev Padawans - what you've learned so far
+
+- Github is the largest development platform in the world
+- It'a good practice to add a README.md file to your Github repository, so that others understand, what your code is good for
+- Markdown is a great format for developers to format text that they share with others
+- You know how to clone a Git repository
+
+## Your new challenge
+
 In this exercise we'll run a [python](https://www.python.org/) script.
 
 Switch to your [command line interface](https://en.wikipedia.org/wiki/Command-line_interface) and run the following command from within the folder where you have cloned this repository into:
