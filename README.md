@@ -25,6 +25,10 @@ HELLO PADAWAN!
 
 If you get an error message you have some homework to do (unless you are simply not in the folder where the python file padawan_part2.py is).
 
+Try calling the python application from within Visual Studio Code. In Visual Studio Code you click on
+
+**Terminal** > **New Terminal**.
+
 ## Homework
 
 [Install python](https://www.python.org/downloads/) on your computer and try the above command again until you see the message
