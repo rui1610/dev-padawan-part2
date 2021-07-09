@@ -37,8 +37,15 @@ Try calling the python application from within Visual Studio Code. In Visual Stu
 HELLO PADAWAN!
 ```
 
-You are getting an error message? Maybe that already brings us to part 3 of our journey.
-
 You didn't get an error message? The force must be strong inside you.
+
+You are getting an error message like this:
+```
+    print "HELLO PADAWAN!"
+          ^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print("HELLO PADAWAN!")?
+```
+
+Maybe that already brings us to part 3 of our journey.
 
 > Yoda: “[A Jedi's strength flows from the Force](https://www.youtube.com/watch?v=gONQCIevSN0)”
